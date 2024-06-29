@@ -1,12 +1,9 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm David
+<a href="https://www.linkedin.com/in/david-taylor67"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’ve been driving trucks for 30+ years. As a member of the U.S.Army, I learned how to collaborate as a team member and the value of being reliable. I have a profound interest in technology and a dedication to solving complex problems.  I am eager to learn and help an organization with their security needs.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -17,11 +14,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Security Automation with Shuffle SOAR         | <a href="https://coursera.org/share/4e792fff4e2e0b22f08c17b8016c4f66">Automation</a>|
+| Incident Response Planning and Execution      | <a href="https://coursera.org/share/e583bd2c7fdcf1e893cce5994bed1026">Incident Response</a>|
+| Case Management with TheHive                  | <a href="https://coursera.org/share/7e9d6c5136d22afbf3b29eb8b6eb824d">Case Management</a>|
+| Scripting and Automation for Threat Mitigation |<a href="https://coursera.org/share/bf4d2b1599fb014915563ed98125fa8c">Scripting</a>|
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
