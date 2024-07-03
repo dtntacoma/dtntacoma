@@ -5,7 +5,7 @@ I’ve been driving trucks for 30+ years. As a member of the U.S.Army, I learned
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join an organization as an Entry level Cybersecurity Analyst, eventually joining a Security Operations Center (SOC) as a Tier 1 Analyst while continuing to learn.
 
 ## Skills
 
